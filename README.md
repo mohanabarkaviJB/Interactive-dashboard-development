@@ -16,16 +16,16 @@ Tools Used:
 
 ## Dashboard Outputs
 ### Sales Trend
-![Sales Trend](Sales_trend.png)
+![Sales Trend](Sales_trend.png.png)
 
 ### Profit Analysis
-![Profit Analysis](Profit_chart.png)
+![Profit Analysis](Profit_chart.png.png)
 
 ### Customer Growth
-![Customer Growth](Customer_chart.png)
+![Customer Growth](Customer_chart.png.png)
 
 ### Sales Distribution
-![Sales Distribution](Sales_distribution.png)
+![Sales Distribution](Sales_distribution.png.png)
 
 Outcome:
 An interactive dashboard that clearly visualizes trends and performance metrics.
