@@ -14,5 +14,18 @@ Tools Used:
 - Plotly
 - Google Colab
 
+## Dashboard Outputs
+### Sales Trend
+![Sales Trend](Sales_trend.png)
+
+### Profit Analysis
+![Profit Analysis](Profit_chart.png)
+
+### Customer Growth
+![Customer Growth](Customer_chart.png)
+
+### Sales Distribution
+![Sales Distribution](Sales_distribution.png)
+
 Outcome:
 An interactive dashboard that clearly visualizes trends and performance metrics.
